@@ -10,6 +10,7 @@ The services we use.
 * **[Harvest](harvest)** - Invoicing and time tracking.
 * **[NationBuilder](nationbuilder)** - Our CRM and CMS of choice.
 * **[PayPal](paypal)** - Invoice processing (via [Harvest](harvest)).
+* **[Slack](slack)** - Chat, notifications, etc. The heartbeat of Hines Digital.
 * **[Symbolset](symbolset)** - Beautiful, versatile icon fonts.
 * **[Trello](trello)** - Kanban style project management.
 * **[Typekit](typekit)** - Webfonts galore.
