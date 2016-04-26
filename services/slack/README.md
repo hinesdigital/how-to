@@ -13,9 +13,9 @@ Slack allows us to create channels to talk to everyone at once. Think chat rooms
 
 ### Naming channels
 
-Slack channels for client projects ought to be named to match the relevant project’s [Google Drive folder name][googledrive]. For example, Justin Ready’s website design channel would be #2016-justinready-redesign.
+Slack channels for client projects ought to be named to match the client’s NationBuilder nation slug, prefixed with `client-`. For example, Justin Ready’s channel should be `#client-justinready`.
 
-There should be one channel per project, not one channel per client. Keep things clearly separated.
+There should be one channel per client, not one channel per project (as with Trello boards).
 
 ### General & Random
 
@@ -23,7 +23,7 @@ By default slack has two channels, General and Random, and all users are added. 
 
 ### ext-
 
-Some channels begin with and ext-, these channels allow clients to join in on the conversation.
+Some channels begin with and ext-, these channels allow clients or outside partners to join in on the conversation.
 
 ## Direct Messages
 

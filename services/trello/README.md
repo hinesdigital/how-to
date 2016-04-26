@@ -17,13 +17,17 @@ We use Trello to try units of work through a process, which generally looks like
 
 Sometimes, we use Trello boards for unconvention purposes, like to document new hire onboarding, members of various teams, etc.
 
-### One board per project
+### One board per “project”
 
-If we’re performing multiple roles for a given client _(i.e., web design, digital strategy, etc.)_, we should create multiple boards to track each aspect of the project.
+For the purpose of Trello boards, we’re defining a “project” differently than we are for [Google Drive folders][googledrive].
+
+If we’re performing multiple roles for a given client _(i.e., HD Express, web design, full service digital, etc.)_, we should create multiple boards to track each aspect of the project. Each component part of our work with a client may have different team members involved, different workflows, etc., and it’s worth keeping them separated to a reasonable extent.
 
 ### Naming Boards
 
-Like [Google Drive folders][googledrive] and [Slack channels][slack], Trello boards should be named #year-slug-purpose. Consistently naming things helps keep it clear where to look across platforms & tools.
+Like [Google Drive folders][googledrive], Trello boards should be named #year-slug-purpose. For example, Justin Ready’s website design board would be #2016-justinready-webdesign. If we’re splitting a single contract into multiple boards (as described above), just hyphen the board name one layer further _(ex: #2016-amash-fullservice-website)_.
+
+Consistently naming things helps keep it clear where to look across platforms & tools.
 
 ### Card etiquette
 
